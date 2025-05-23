@@ -85,7 +85,11 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors
-- [Your Name/Team]
+- [Amr Hamada,
+   Adam Rany,
+   Ramy Adel,
+   Mohamed Fawzy,
+   Youssef Salama]
 
 ## Acknowledgments
 - Cairo Transportation Authority
