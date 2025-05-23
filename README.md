@@ -35,7 +35,7 @@ smart_city_transport/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [[repository-url](https://github.com/Cluntip/Smart-City-Path-Finder)]
 cd smart_city_transport
 ```
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### Running the Project
 1. Start the visualization interface:
 ```bash
-python src/main.py
+python -m streamlit run src/app.py
 ```
 
 2. Run tests:
